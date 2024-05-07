@@ -23,6 +23,7 @@ Here are some insightful blogs about front-end technologies and practices:
 - [Replacing Axios](https://dev.to/coderhu/its-time-to-replace-your-axios-143p)
 - [Under the Hood of ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [Optimizing web fonts in NextJS](https://www.lydiahallie.io/blog/optimizing-webfonts-in-nextjs-13)
+- [Handy Frontend Code Snippets](https://www.joshwcomeau.com/snippets/) 
 
 ## Memory Management JavaScript 💾
 Learn about optimizing and managing memory in JavaScript applications:
