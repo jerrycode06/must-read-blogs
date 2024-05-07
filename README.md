@@ -22,6 +22,7 @@ Here are some insightful blogs about front-end technologies and practices:
 - [Shared Element Transitions for SPAs](https://developer.chrome.com/blog/shared-element-transitions-for-spas/)
 - [Replacing Axios](https://dev.to/coderhu/its-time-to-replace-your-axios-143p)
 - [Under the Hood of ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+- [Optimizing web fonts in NextJS](https://www.lydiahallie.io/blog/optimizing-webfonts-in-nextjs-13)
 
 ## Memory Management JavaScript 💾
 Learn about optimizing and managing memory in JavaScript applications:
@@ -59,6 +60,7 @@ Insight into the architectures of major tech companies:
 18. [Uber](https://lnkd.in/gbjXCXBP)
 19. [Zoom](https://lnkd.in/gthpk8MV)
 20. [LinkedIn](https://lnkd.in/gZpCFsaY)
+21. [Behind the scenes of Vercel's infrastructure: Achieving optimal scalability and performance](https://vercel.com/blog/behind-the-scenes-of-vercels-infrastructure)
 
 ## Important Tech Talks 🎤
 Dive into these impactful tech talks to gain insights from industry leaders on various technical topics:
