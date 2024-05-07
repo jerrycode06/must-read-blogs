@@ -60,7 +60,23 @@ Insight into the architectures of major tech companies:
 19. [Zoom](https://lnkd.in/gthpk8MV)
 20. [LinkedIn](https://lnkd.in/gZpCFsaY)
 
-Thank you for visiting our repository! If you find these links useful, please consider starring ⭐ the repo and sharing it with your friends and colleagues.
+## Important Tech Talks 🎤
+Dive into these impactful tech talks to gain insights from industry leaders on various technical topics:
+- [Optimizing LCP](https://www.youtube.com/watch?v=fWoI9DXmpdk)
+- [Optimizing First Input Delay](https://www.youtube.com/watch?v=WxYpdw5ELrU)
+- [Data Fetching with Server Components](https://youtu.be/TQQPAU21ZUw)
+- [Performance in React and Next.js](https://www.youtube.com/watch?v=SqVLqvsiAYQ)
+- [Architecting Large Scale Web Applications](https://podrocket.logrocket.com/architect-web-apps)
+- [Build your own web framework](https://www.youtube.com/watch?v=j6qweJF_TIc)
+- [Implementation and use cases of modern rendering patterns](https://www.youtube.com/watch?v=RHFlQnug3bk)
+- [Building Accessible Web Applications](https://www.youtube.com/watch?v=SUk0hF-xe5A)
+- [Understanding the V8 JavaScript Engine](https://www.youtube.com/watch?v=xckH5s3UuX4)
+
+---
+
+We hope you find these resources helpful! For any questions or additional contributions, feel free to open an issue or submit a pull request.
+
+Thank you for visiting my repository! If you find these links useful, please consider starring ⭐ the repo and sharing it with your friends and colleagues.
 
 ---
 
